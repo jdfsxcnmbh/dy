@@ -1,3 +1,2 @@
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@167.68.11.146:443?flow=&encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=tg%40zdyz2&headerType=none&alpn=&fp=&pbk=&sid=&spx=&allowInsecure=1&fragment=,100-200,10-60&os=#美国(yudou66.com 玉豆免费节点) 
-
 vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@94.140.0.185:443?flow=&encryption=none&security=tls&sni=cfed.tgzdyz2.top&type=ws&host=cfed.tgzdyz2.top&path=/tg%40zdyz2&headerType=none&alpn=&fp=&pbk=&sid=&spx=&allowInsecure=1&fragment=,100-200,10-60&os=#法国(yudou66.com 玉豆免费节点) 
